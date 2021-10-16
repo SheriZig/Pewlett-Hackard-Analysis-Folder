@@ -20,3 +20,5 @@ In order to maintain current staffing levels, 90,398 positions will need to be f
 Pewlett Hackard is considering a mentorship program to offer an opportunity to some employees to work part-time as mentors to younger employees. Based on the established criteria, there will be 1549 employees who qualify for the mentorship program.
 
 Below is a comparison by title of the number of retirees vs number of eligible mentors.
+
+![image](https://user-images.githubusercontent.com/88912539/137568440-9ef85221-9a30-40dd-87c3-4a31e2ccbf03.png)
